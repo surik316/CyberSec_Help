@@ -7,5 +7,5 @@
 * [Первый курс](https://github.com/surik316/First_Course)
 * [Второй курс](https://github.com/surik316/Second_Course)
 * [Третий курс](https://github.com/surik316/Third_Course)
-* [Четвертый курс] В процессе
-* [Пятый курс] В процессе
+* [Четвертый курс](https://github.com/surik316/Fourth_Course)
+* [Пятый курс](https://github.com/surik316/Fifth_Course)
